@@ -7,3 +7,4 @@ AuthenticatorService<br>
 AccountAuthenticatorActivity<br> 
 AbstractThreadedSyncAdapter<br> 
 SyncService<br> 
+详情请查看个人博客：http://blog.csdn.net/yoonerloop/article/details/78211022
